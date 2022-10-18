@@ -43,35 +43,3 @@ Pour ce faire, vous aurez certainement besoin de gérer les citations avec des I
 ### Etape 4 : Bonus CSS
 
 Objectif : rendre le tout un peu attrayant, parce que c'est un peu moche quand même. Vous êtes autorisés à ajouter un peu de CSS.
-
-## Dojo #2 : La no-TODO list
-
-Pour changer un peu de la classique TODO list, on vous demande de réaliser une liste de chose à ne pas faire.
-
-### Etape 1 : Afficher la no-TODO list
-
-Objectif : maquetter à la volée la mini no-TODO list.
-
-Vous choisirez la façon dont vous voulez afficher votre no-TODO list.
-
-> ℹ Cette étape peut se faire tous ensemble, pas besoin de lancer le chrono en mode Dojo !
-
-### Etape 2 : Découper chaque item en composant
-
-Objectif : Arriver à découper son application React en plusieurs composants.
-
-Un découpage possible pourrait être :
-
-- `App`
-- `Header`
-- `ItemForm`
-- `ItemList`
-- `Item`
-
-### Etape 3 : Gérer l'ajout d'élément à la liste
-
-Objectif : Gérer l'ajout d'un élément à la liste via la soumission du formulaire de nouvel élément.
-
-### Etape 4 : Gérer la validation d'une non réalisation
-
-Objectif : A l'aide d'une case à cocher, gérer la non réalisation d'un item de la liste. Vous pouvez changer le style de l'item (couleur en gris, style italique et barré).
